@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("are you ok? git");
         System.out.println("git3");
         System.out.println("git4");
+        System.out.println("hot-fix 5");
     }
 }
